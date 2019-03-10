@@ -1,0 +1,58 @@
+
+**** Start test at: 2019-01-17 22:19:53.049 UTC: 2019-01-17 20:19:53.049 ****
+**** End test at: 2019-01-17 22:19:53.244 ****
+
+**** Start test at: 2019-01-17 22:21:22.117 UTC: 2019-01-17 20:21:22.118 ****
+**** End test at: 2019-01-17 22:21:22.236 ****
+
+**** Start test at: 2019-01-17 22:23:41.162 UTC: 2019-01-17 20:23:41.162 ****
+**** End test at: 2019-01-17 22:23:41.280 ****
+
+**** Start test at: 2019-01-17 22:24:13.733 UTC: 2019-01-17 20:24:13.733 ****
+**** End test at: 2019-01-17 22:24:13.838 ****
+
+**** Start test at: 2019-01-17 22:28:57.229 UTC: 2019-01-17 20:28:57.229 ****
+17-Jan-2019-22:29:16 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/default.aspx
+17-Jan-2019-22:29:22 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/categories.aspx
+17-Jan-2019-22:29:37 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/vehicle-companies.aspx
+17-Jan-2019-22:29:40 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/reviews.aspx
+17-Jan-2019-22:30:00 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/images-shops.aspx
+17-Jan-2019-22:30:13 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/users.aspx
+17-Jan-2019-22:30:27 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/content.aspx
+17-Jan-2019-22:30:35 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/emails.aspx
+17-Jan-2019-22:30:51 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/news.aspx
+17-Jan-2019-22:30:59 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/change-categories.aspx?item=News
+17-Jan-2019-22:31:07 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/videos.aspx
+17-Jan-2019-22:31:14 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/change-categories.aspx?item=Videos
+17-Jan-2019-22:31:29 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/common-searches.aspx
+17-Jan-2019-22:31:38 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/admin-users.aspx?id=administrators
+17-Jan-2019-22:31:47 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/generate-sitemap.aspx
+17-Jan-2019-22:31:57 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/generate-links.aspx
+17-Jan-2019-22:32:10 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/removed-pages.aspx
+17-Jan-2019-22:32:18 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/configuration.aspx
+17-Jan-2019-22:32:27 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/forum-questions.aspx
+17-Jan-2019-22:32:36 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/report.aspx
+17-Jan-2019-22:32:49 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/payments-history.aspx
+17-Jan-2019-22:33:03 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/vehicles.aspx
+17-Jan-2019-22:33:12 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/approve-models.aspx
+17-Jan-2019-22:33:20 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/issue.aspx
+17-Jan-2019-22:33:28 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/idea.aspx
+17-Jan-2019-22:33:39 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/obd-codes.aspx
+17-Jan-2019-22:33:50 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/specifications-reviews.aspx
+17-Jan-2019-22:33:59 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/recalls-reviews.aspx
+17-Jan-2019-22:34:19 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/problems-reviews.aspx
+17-Jan-2019-22:34:29 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/sale-payments.aspx
+17-Jan-2019-22:34:41 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/sale-orders.aspx
+17-Jan-2019-22:34:50 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/seo-templates.aspx
+17-Jan-2019-22:34:59 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/manual-setting.aspx
+17-Jan-2019-22:35:08 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/device-firmware.aspx
+17-Jan-2019-22:35:16 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/update-fullthrottleapi.aspx
+17-Jan-2019-22:35:57 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [AdminPagesUploading] - A page is 'Failed': https://mechanic.boston/Administrators/shop-manager.aspx
+17-Jan-2019-22:36:05 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/api-clients.aspx
+17-Jan-2019-22:36:51 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/campaign-templates.aspx
+17-Jan-2019-22:37:02 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/edit-carmodelcombinations.aspx
+17-Jan-2019-22:37:18 [TProject.TestScript.PageBot.PageBotTest] [INFO] [AdminPagesUploading] - A page is 'Passed': https://mechanic.boston/Administrators/shop-manager-notifications.aspx
+**** End test at: 2019-01-17 22:37:23.521 ****
+
+**** Start test at: 2019-02-08 11:04:15.649 UTC: 2019-02-08 09:04:15.649 ****
+**** End test at: 2019-02-08 11:04:23.823 ****

@@ -1,0 +1,285 @@
+
+**** Start test at: 2018-12-30 23:45:32.084 UTC: 2018-12-30 21:45:32.085 ****
+30-Dec-2018-23:45:38 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Number of links: 118
+30-Dec-2018-23:45:38 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/
+30-Dec-2018-23:45:40 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 0 ] - A page is 'Passed': https://mechanic.boston/
+30-Dec-2018-23:45:48 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 1 ] - A page is 'Passed': https://mechanic.boston/sign-in?returnUrl=%2F
+30-Dec-2018-23:45:50 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 2 ] - A page is 'Passed': https://mechanic.boston/sign-in?returnUrl=%2Fsign-in%3FreturnUrl%3D%252F
+30-Dec-2018-23:45:51 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 3 ] - A page is 'Passed': https://mechanic.boston/shop-review
+30-Dec-2018-23:45:53 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 4 ] - A page is 'Passed': https://mechanic.boston/find-a-repair-shop
+30-Dec-2018-23:45:54 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 5 ] - A page is 'Passed': https://mechanic.boston/community
+30-Dec-2018-23:45:54 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 6 ] - A page is 'Passed': https://mechanic.boston/shop-owners
+30-Dec-2018-23:45:55 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 7 ] - A page is 'Passed': https://mechanic.boston/sign-in?returnUrl=%2Fmy-shops
+30-Dec-2018-23:45:55 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/terms
+30-Dec-2018-23:45:57 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 8 ] - A page is 'Passed': https://mechanic.boston/terms
+30-Dec-2018-23:45:57 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [ www.dataonesoftware.com ]
+30-Dec-2018-23:45:58 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 10 ]
+30-Dec-2018-23:45:58 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:46:01 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 11 ] - A page is 'Passed': https://mechanic.boston/pricing
+30-Dec-2018-23:46:02 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 12 ] - A page is 'Passed': https://mechanic.boston/shop-owners
+30-Dec-2018-23:46:02 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 13 ]
+30-Dec-2018-23:46:02 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:46:05 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 14 ] - A page is 'Passed': https://mechanic.boston/connection-key
+30-Dec-2018-23:46:07 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 15 ] - A page is 'Passed': https://mechanic.boston/mobile-app
+30-Dec-2018-23:46:07 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/
+30-Dec-2018-23:46:08 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 16 ] - A page is 'Passed': https://mechanic.boston/
+30-Dec-2018-23:46:08 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/#popup-get-started
+30-Dec-2018-23:46:09 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 17 ] - A page is 'Passed': https://mechanic.boston/#popup-get-started
+30-Dec-2018-23:46:09 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [  ]
+30-Dec-2018-23:46:09 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-text-messaging
+30-Dec-2018-23:46:10 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 19 ] - A page is 'Passed': https://mechanic.boston/auto-shop-text-messaging
+30-Dec-2018-23:46:10 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-email-marketing
+30-Dec-2018-23:46:11 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 20 ] - A page is 'Passed': https://mechanic.boston/auto-shop-email-marketing
+30-Dec-2018-23:46:12 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-postcard-mailing
+30-Dec-2018-23:46:13 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 21 ] - A page is 'Passed': https://mechanic.boston/auto-shop-postcard-mailing
+30-Dec-2018-23:46:13 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/automotive-marketing
+30-Dec-2018-23:46:15 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 22 ] - A page is 'Passed': https://mechanic.boston/automotive-marketing
+30-Dec-2018-23:46:15 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-scheduling-software
+30-Dec-2018-23:46:16 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 23 ] - A page is 'Passed': https://mechanic.boston/auto-shop-scheduling-software
+30-Dec-2018-23:46:16 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-reputation-management
+30-Dec-2018-23:46:17 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 24 ] - A page is 'Passed': https://mechanic.boston/auto-shop-reputation-management
+30-Dec-2018-23:46:18 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/repair-shop-telematics
+30-Dec-2018-23:46:19 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 25 ] - A page is 'Passed': https://mechanic.boston/repair-shop-telematics
+30-Dec-2018-23:46:19 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/pricing
+30-Dec-2018-23:46:28 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 26 ] - A page is 'Passed': https://mechanic.boston/pricing
+30-Dec-2018-23:46:28 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/shop-owners
+30-Dec-2018-23:46:29 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 27 ] - A page is 'Passed': https://mechanic.boston/shop-owners
+30-Dec-2018-23:46:29 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 28 ]
+30-Dec-2018-23:46:29 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:46:30 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/connection-key
+30-Dec-2018-23:46:32 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 29 ] - A page is 'Passed': https://mechanic.boston/connection-key
+30-Dec-2018-23:46:33 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 30 ] - A page is 'Passed': https://mechanic.boston/connection-key#popup-youtube
+30-Dec-2018-23:46:33 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 31 ]
+30-Dec-2018-23:46:33 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - OpenQA.Selenium.WebDriverException: unknown error: Element <a href="/payment" class="btn-white btn-open-signup btn-order">...</a> is not clickable at point (1144, 459). Other element would receive the click: <iframe src="https://www.youtube.com/embed/QU775I8sQbs" allowfullscreen=""></iframe>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 6.1.7601 SP1 x86_64)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 72
+30-Dec-2018-23:46:36 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 32 ] - A page is 'Passed': https://mechanic.boston/automotive-marketing
+30-Dec-2018-23:46:36 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/automotive-marketing
+30-Dec-2018-23:46:37 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 33 ] - A page is 'Passed': https://mechanic.boston/automotive-marketing
+30-Dec-2018-23:46:38 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-text-messaging
+30-Dec-2018-23:46:39 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 34 ] - A page is 'Passed': https://mechanic.boston/auto-shop-text-messaging
+30-Dec-2018-23:46:39 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-postcard-mailing
+30-Dec-2018-23:46:40 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 35 ] - A page is 'Passed': https://mechanic.boston/auto-shop-postcard-mailing
+30-Dec-2018-23:46:41 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-postcard-mailing
+30-Dec-2018-23:46:42 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 36 ] - A page is 'Passed': https://mechanic.boston/auto-shop-postcard-mailing
+30-Dec-2018-23:46:42 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-reputation-management
+30-Dec-2018-23:46:43 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 37 ] - A page is 'Passed': https://mechanic.boston/auto-shop-reputation-management
+30-Dec-2018-23:46:43 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-email-marketing
+30-Dec-2018-23:46:45 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 38 ] - A page is 'Passed': https://mechanic.boston/auto-shop-email-marketing
+30-Dec-2018-23:46:45 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/auto-shop-email-marketing
+30-Dec-2018-23:46:46 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 39 ] - A page is 'Passed': https://mechanic.boston/auto-shop-email-marketing
+30-Dec-2018-23:46:47 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/contact
+30-Dec-2018-23:46:48 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 40 ] - A page is 'Passed': https://mechanic.boston/contact
+30-Dec-2018-23:46:48 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 41 ]
+30-Dec-2018-23:46:48 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:46:50 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 42 ] - A page is 'Passed': https://mechanic.boston/auto-shop-email-marketing
+30-Dec-2018-23:46:54 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 43 ] - A page is 'Passed': https://mechanic.boston/ny/brooklyn/auto-repair
+30-Dec-2018-23:46:54 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 44 ] - A page is 'Passed': https://mechanic.boston/ny/brooklyn/auto-repair#
+30-Dec-2018-23:46:54 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/ny/brooklyn/acura-repair-shops
+30-Dec-2018-23:46:56 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Link#: [ 45 ] - A page is 'Failed': https://mechanic.boston/ny/brooklyn/acura-repair-shops
+30-Dec-2018-23:46:56 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [ plus.google.com ]
+30-Dec-2018-23:47:01 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 47 ] - A page is 'Passed': https://mechanic.boston/ny/brooklyn/am-general-repair-shops
+30-Dec-2018-23:47:03 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 48 ] - A page is 'Passed': https://mechanic.boston/ny/brooklyn/aston-martin-repair-shops
+30-Dec-2018-23:47:05 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Link#: [ 49 ] - A page is 'Failed': https://mechanic.boston/ny/brooklyn/audi-repair-shops
+30-Dec-2018-23:47:05 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 50 ]
+30-Dec-2018-23:47:05 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:47:09 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 51 ] - A page is 'Passed': https://mechanic.boston/oh/cincinnati/auto-repair
+30-Dec-2018-23:47:09 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/ohio-repair-shops
+30-Dec-2018-23:47:12 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 52 ] - A page is 'Passed': https://mechanic.boston/ohio-repair-shops
+30-Dec-2018-23:47:14 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 53 ] - A page is 'Passed': https://mechanic.boston/oh/euclid-repair-shops
+30-Dec-2018-23:47:15 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 54 ] - A page is 'Passed': https://mechanic.boston/oh/euclid/interior-cleaning
+30-Dec-2018-23:47:18 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 55 ] - A page is 'Passed': https://mechanic.boston/oh/euclid/matts-precision-automotive
+30-Dec-2018-23:47:19 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 56 ] - A page is 'Passed': https://mechanic.boston/oh/wickliffe-repair-shops
+30-Dec-2018-23:47:23 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 57 ] - A page is 'Passed': https://mechanic.boston/oh/wickliffe/service-stations
+30-Dec-2018-23:47:23 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [ www.radair.com ]
+30-Dec-2018-23:47:28 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 59 ] - A page is 'Passed': https://mechanic.boston/oh/wickliffe/auto-parts
+30-Dec-2018-23:47:28 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [ powertrainautomotive.com ]
+30-Dec-2018-23:47:31 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 61 ] - A page is 'Passed': https://mechanic.boston/oh/wickliffe/timing-belt-replacement
+30-Dec-2018-23:47:35 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 62 ] - A page is 'Passed': https://mechanic.boston/book-appointment?shopId=581030
+30-Dec-2018-23:47:35 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 63 ]
+30-Dec-2018-23:47:35 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:47:41 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 64 ] - A page is 'Passed': https://mechanic.boston/fl/orlando/auto-repair
+30-Dec-2018-23:47:43 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 65 ] - A page is 'Passed': https://mechanic.boston/fl/orlando/tuffy-tire-auto-service
+30-Dec-2018-23:47:45 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 66 ] - A page is 'Passed': https://mechanic.boston/auto-shop-scheduling-software
+30-Dec-2018-23:47:50 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 67 ] - A page is 'Passed': https://mechanic.boston/ca/san-jose/auto-repair
+30-Dec-2018-23:47:50 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [ www.autorepairshopsanjose.com ]
+30-Dec-2018-23:47:52 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 69 ] - A page is 'Passed': https://mechanic.boston/truck-repair-shops
+30-Dec-2018-23:47:53 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 70 ] - A page is 'Passed': https://mechanic.boston/chevy-truck-repair-shops
+30-Dec-2018-23:47:55 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 71 ] - A page is 'Passed': https://mechanic.boston/il/chicago-repair-shops
+30-Dec-2018-23:48:00 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 72 ] - A page is 'Passed': https://mechanic.boston/il/chicago/towing-service
+30-Dec-2018-23:48:04 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 73 ] - A page is 'Passed': https://mechanic.boston/il/chicago/perillo-service-center#all-services
+30-Dec-2018-23:48:06 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 74 ] - A page is 'Passed': https://mechanic.boston/connection-key
+30-Dec-2018-23:48:06 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 75 ]
+30-Dec-2018-23:48:06 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:08 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 76 ] - A page is 'Passed': https://mechanic.boston/find-a-repair-shop
+30-Dec-2018-23:48:09 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 77 ] - A page is 'Passed': https://mechanic.boston/terms
+30-Dec-2018-23:48:09 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 78 ]
+30-Dec-2018-23:48:09 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:12 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 79 ] - A page is 'Passed': https://mechanic.boston/auto-repair-shops
+30-Dec-2018-23:48:14 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 80 ] - A page is 'Passed': https://mechanic.boston/chevrolet-repair-shops
+30-Dec-2018-23:48:16 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 81 ] - A page is 'Passed': https://mechanic.boston/auto-repair-shops
+30-Dec-2018-23:48:18 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 82 ] - A page is 'Passed': https://mechanic.boston/corvette-repair-shops
+30-Dec-2018-23:48:20 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 83 ] - A page is 'Passed': https://mechanic.boston/motorcycle-repair-shops
+30-Dec-2018-23:48:21 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 84 ] - A page is 'Passed': https://mechanic.boston/azel-motorcycle-repair-shops
+30-Dec-2018-23:48:22 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 85 ] - A page is 'Passed': https://mechanic.boston/contact
+30-Dec-2018-23:48:23 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 86 ]
+30-Dec-2018-23:48:23 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:25 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 87 ] - A page is 'Passed': https://mechanic.boston/auto-shop-email-marketing
+30-Dec-2018-23:48:27 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 88 ] - A page is 'Passed': https://mechanic.boston/contact
+30-Dec-2018-23:48:27 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 89 ]
+30-Dec-2018-23:48:27 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:30 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 90 ] - A page is 'Passed': https://mechanic.boston/auto-shop-scheduling-software
+30-Dec-2018-23:48:30 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [ twitter.com ]
+30-Dec-2018-23:48:33 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 92 ] - A page is 'Passed': https://mechanic.boston/repair-shop-telematics
+30-Dec-2018-23:48:33 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [  ]
+30-Dec-2018-23:48:37 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 94 ] - A page is 'Passed': https://mechanic.boston/community
+30-Dec-2018-23:48:37 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 95 ]
+30-Dec-2018-23:48:37 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:39 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [  ]
+30-Dec-2018-23:48:40 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 97 ]
+30-Dec-2018-23:48:40 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:42 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 98 ] - A page is 'Passed': https://mechanic.boston/contact
+30-Dec-2018-23:48:42 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 99 ]
+30-Dec-2018-23:48:42 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:45 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 100 ] - A page is 'Passed': https://mechanic.boston/privacy
+30-Dec-2018-23:48:45 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 101 ]
+30-Dec-2018-23:48:45 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:46 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [ twitter.com ]
+30-Dec-2018-23:48:47 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 103 ]
+30-Dec-2018-23:48:47 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:49 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [  ]
+30-Dec-2018-23:48:50 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 105 ]
+30-Dec-2018-23:48:50 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:51 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/#popup-car-owners
+30-Dec-2018-23:48:51 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 106 ] - A page is 'Passed': https://mechanic.boston/#popup-car-owners
+30-Dec-2018-23:48:51 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [  ]
+30-Dec-2018-23:48:51 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/contact
+30-Dec-2018-23:48:52 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 108 ] - A page is 'Passed': https://mechanic.boston/contact
+30-Dec-2018-23:48:52 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 109 ]
+30-Dec-2018-23:48:52 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:53 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - A Host is not a mechanic: [  ]
+30-Dec-2018-23:48:54 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 111 ]
+30-Dec-2018-23:48:54 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:56 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/find-a-repair-shop
+30-Dec-2018-23:48:58 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 112 ] - A page is 'Passed': https://mechanic.boston/find-a-repair-shop
+30-Dec-2018-23:48:58 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 113 ]
+30-Dec-2018-23:48:58 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:48:59 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/community
+30-Dec-2018-23:49:00 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 114 ] - A page is 'Passed': https://mechanic.boston/community
+30-Dec-2018-23:49:00 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 115 ]
+30-Dec-2018-23:49:00 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+30-Dec-2018-23:49:01 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - A link was not visible: https://mechanic.boston/connection-key
+30-Dec-2018-23:49:03 [TProject.TestScript.PageBot.PageBotTest] [INFO] [HomePagesUploading] - Link#: [ 116 ] - A page is 'Passed': https://mechanic.boston/connection-key
+30-Dec-2018-23:49:03 [TProject.TestScript.PageBot.PageBotTest] [ERROR] [HomePagesUploading] - Number of link: [ 117 ]
+30-Dec-2018-23:49:03 [TProject.TestScript.PageBot.PageBotTest] [FATAL] [HomePagesUploading] - System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at System.Collections.ObjectModel.ReadOnlyCollection`1.get_Item(Int32 index)
+   at TProject.TestScript.PageBot.PageBotTest.HomePagesUploading() in D:\C#Testing\TProject\TProject\TestScript\PageBot\PageBotTest.cs:line 65
+**** End test at: 2018-12-30 23:49:08.440 ****
